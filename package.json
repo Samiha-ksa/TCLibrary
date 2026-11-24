@@ -1,0 +1,8 @@
+{
+  "name": "library-hub",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@netlify/blobs": "^8.0.0"
+  }
+}
